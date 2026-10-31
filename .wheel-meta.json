@@ -1,0 +1,22 @@
+{
+  "wheel_id": 589,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-116",
+  "project": "retaining-wall-builders-gold-coast-signs-you-need-23a219cb7c6d9",
+  "parent_t1_ref": "goldcoastretainingwall-158",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining wall builders gold coast signs you need",
+  "intended_url": "http://retaining-wall-builders-gold-coast-signs-you-need-23a219cb7c6d9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "c9cf28d6579dd36f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-builders-gold-coast-how-to-choose-de8bf92f72c87c/",
+      "anchor": "retaining wall builders gold coast how to choose explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
